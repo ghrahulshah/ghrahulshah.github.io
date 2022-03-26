@@ -7,5 +7,5 @@ Here is an example of the Print Function in Python:
 - [Project 1 (ipynb)](Project1.ipynb) 
 
 Homepage: 
-- [Homepage](https://github.com/ghrahulshah/ghrahulshah.github.io)
+- [Homepage](https://ghrahulshah.github.io/)
 
