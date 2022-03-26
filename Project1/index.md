@@ -6,3 +6,6 @@ Here is an example of the Print Function in Python:
 - [Project 1 (html)](Project1.html)
 - [Project 1 (ipynb)](Project1.ipynb) 
 
+Homepage: 
+- [Homepage](https://github.com/ghrahulshah/ghrahulshah.github.io)
+
