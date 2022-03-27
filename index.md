@@ -1,6 +1,6 @@
 ---
-title: Rahul Shah's Personal Website
-description: This website consists of some of the projects I have worked on.
+title: Rahul Shah's Website
+description: This website consists of some of the projects I have worked on during my time in W&M's MSBA Program.
 ---
 
 ![Rahul Shah](/pics/rahulshah.jpg)
